@@ -1,0 +1,2 @@
+include LICENSE.txt
+recursive-include fake_usrag_bor/list_of_user_agents *
